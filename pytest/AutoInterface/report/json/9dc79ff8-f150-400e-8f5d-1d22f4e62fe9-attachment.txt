@@ -1,0 +1,6 @@
+INFO     log_msg:test_case.py:20 --------SetUp---------
+INFO     log_msg:settings.py:233 开始连点——自动调节亮度开关按钮
+INFO     log_msg:settings.py:238 开始连点——护眼模式开关按钮
+ERROR    log_msg:settings.py:252 -32002 Client error: <> data: Selector [resourceId='android:id/title', text='屏保'], method: None
+WARNING  log_msg:Assert.py:84 测试失败 ====Fial
+INFO     log_msg:test_case.py:23 --------TearDown---------

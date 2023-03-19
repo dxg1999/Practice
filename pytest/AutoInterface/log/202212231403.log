@@ -1,0 +1,13 @@
+2022-12-23 14:03:41,567 - log_msg - __init__ - INFO - 已连上设备，sn如下：
+
+2022-12-23 14:03:41,572 - log_msg - __init__ - INFO - STS40X190060
+2022-12-23 14:03:45,604 - log_msg - __init__ - INFO - 已连上设备，sn如下：
+
+2022-12-23 14:03:45,604 - log_msg - __init__ - INFO - STS40X190060
+2022-12-23 14:03:49,437 - log_msg - setup - INFO - --------SetUp---------
+2022-12-23 14:03:49,620 - log_msg - setting_wifi_btn - INFO - 点击设置里所有相关按钮
+2022-12-23 14:04:05,636 - log_msg - setting_wifi_btn - INFO - 开始连点——wifi开关按钮
+2022-12-23 14:04:24,910 - log_msg - setting_wifi_btn - ERROR - -32002 Client error: <> data: Selector [resourceId='android:id/title', text='WLAN 偏好设置'], method: None
+2022-12-23 14:04:24,910 - log_msg - assert_Fail - WARNING - 测试失败 ====Fial
+2022-12-23 14:04:25,070 - log_msg - teardown - INFO - --------TearDown---------
+2022-12-23 14:04:27,292 - log_msg - setup - INFO - --------SetUp---------

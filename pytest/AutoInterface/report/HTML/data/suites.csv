@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Thu Feb 16 17:53:53 CST 2023","Thu Feb 16 17:54:14 CST 2023","21497","TestCase","test_case","Test_Case","","","显示相关功能按钮连点测试",""

@@ -1,0 +1,7 @@
+-
+id：login_01
+title：登陆成功
+url：member/login
+method：POST
+request_data：{"mobile_phone": "17866554324","pwd":"188888"}
+expect：{"code":0,"msg":"OK"}

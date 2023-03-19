@@ -1,0 +1,12 @@
+2023-02-16 17:53:48,714 - log_msg - __init__ - INFO - 已连上设备，sn如下：
+
+2023-02-16 17:53:48,715 - log_msg - __init__ - INFO - STS40X190060
+2023-02-16 17:53:51,045 - log_msg - __init__ - INFO - 已连上设备，sn如下：
+
+2023-02-16 17:53:51,045 - log_msg - __init__ - INFO - STS40X190060
+2023-02-16 17:53:53,424 - log_msg - setup - INFO - --------SetUp---------
+2023-02-16 17:53:58,848 - log_msg - setting_display_btn - INFO - 开始连点——自动调节亮度开关按钮
+2023-02-16 17:54:04,643 - log_msg - setting_display_btn - INFO - 开始连点——护眼模式开关按钮
+2023-02-16 17:54:14,920 - log_msg - setting_display_btn - ERROR - -32002 Client error: <> data: Selector [resourceId='android:id/title', text='屏保'], method: None
+2023-02-16 17:54:14,921 - log_msg - assert_Fail - WARNING - 测试失败 ====Fial
+2023-02-16 17:54:15,079 - log_msg - teardown - INFO - --------TearDown---------
